@@ -27,4 +27,3 @@ A minimal website is made with ReactJS where the user can input an image and the
 * [TensorFlow](https://www.tensorflow.org/) - The deep learning library used to train the ML model
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/) - The micro-web framework used to build API
 * [ReactJS](https://reactjs.org/) - The User Interface library used to build the website
-
